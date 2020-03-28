@@ -1,0 +1,14 @@
+1. java priority queue (med)
+https://www.hackerrank.com/challenges/java-priority-queue/problem
+2. java static initializer block
+https://www.hackerrank.com/challenges/java-static-initializer-block/problem
+3. java int to string
+https://www.hackerrank.com/challenges/java-int-to-string/problem
+4. java date and time
+https://www.hackerrank.com/challenges/java-date-and-time/problem 
+5. java currency formatter
+https://www.hackerrank.com/challenges/java-currency-formatter/problem
+6. java valid username regex
+https://www.hackerrank.com/challenges/valid-username-checker/problem
+7. java for loops 1
+https://www.hackerrank.com/challenges/java-loops-i/problem
