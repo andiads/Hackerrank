@@ -12,3 +12,7 @@ https://www.hackerrank.com/challenges/java-currency-formatter/problem
 https://www.hackerrank.com/challenges/valid-username-checker/problem
 7. java for loops 1
 https://www.hackerrank.com/challenges/java-loops-i/problem
+8. java loops 2
+https://www.hackerrank.com/challenges/java-loops/problem
+9. java datatypes
+https://www.hackerrank.com/challenges/java-datatypes/problem
